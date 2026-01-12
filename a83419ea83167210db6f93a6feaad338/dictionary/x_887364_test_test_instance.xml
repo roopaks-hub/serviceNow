@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="51f773cb8392b610db6f93a6feaad3a1" label=" test instance 1" max_length="40" name="x_887364_test_test_instance" type="collection"/>
+    <element db_object_id="51f773cb8392b610db6f93a6feaad3a1" label=" test instance 1" max_length="40" name="x_887364_test_test_instance" type="collection">
+        <element label="test1" max_length="40" name="test1" type="string"/>
+    </element>
 </database>
